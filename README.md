@@ -1,4 +1,4 @@
-# titleist-ball-fitting.github.io
+# Titleist Golf Ball Fitting Reference Guide
 
 <h2 class="sr-only">Titleist golf ball fitting reference guide — internship prep</h2>
 
